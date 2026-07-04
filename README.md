@@ -7,7 +7,7 @@
 </br>
 
 <div style="text-align: center;">
-  <h1>QLogicae Delasaurus1</h1>
+  <h1>QLogicae Delasaurus</h1>
   <p style="font-style: italic;">Root</p>
 <div style="margin: 32px 64px;">
 
