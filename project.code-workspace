@@ -3,13 +3,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": ".github"
-		},
-
-		{
-			"path": "project"
 		}
 	],
 	"settings": {},
